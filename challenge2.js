@@ -76,8 +76,8 @@ console.log(oddsSmallerThan(exacto));
  * squareOrDouble(9) -> 81
  */
 
-let finito = 10;
-let pucito = 3;
+let finito = 3;
+let pucito = 10;
 function squareOrDouble(n) {
   // Your code here
   // even
