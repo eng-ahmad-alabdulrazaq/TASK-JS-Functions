@@ -54,3 +54,16 @@ printHello(name1, language);
  * - that takes 2 parameters as numbers
  * - should print out the bigger number
  */
+
+let unomas = 100;
+let dosmas = 500;
+
+function printMax(uno, dos) {
+  if (uno > dos) {
+    return uno;
+  } else {
+    return dos;
+  }
+}
+
+console.log(printMax(unomas, dosmas));
